@@ -1,0 +1,188 @@
+body{
+    margin:0;
+    background-color: #fff;
+}
+
+
+#heading{
+    display:inline-flex;
+    margin-top:2%;
+    position:sticky;
+    background-color:#fff;
+    height:30px;
+   
+   
+    
+
+    
+}
+#head-one{
+    display:flex;
+    color:grey;
+    text-decoration: none;
+    margin-left: 2%;
+    position:sticky;
+    top:0;
+    
+    
+    
+    
+}
+#card{
+    width:100px;
+    margin-left: 2%;
+}
+#head-two{
+    display: inline-flex;
+    width:80px;
+    height:42px;
+    margin-left:8%;
+    position:sticky;
+    top:0;
+   
+    
+    
+}
+#head-three{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width:100px;
+    height:26px;
+    margin-left:210%;
+    margin-top: 10px;
+    position:sticky;
+    top:0;
+    
+   
+   
+}
+#wordings{
+    display: block;
+    margin-top: 2%;
+    margin-left: 1%;
+    height:600px;
+    justify-content: space-evenly;
+    background-image:linear-gradient(to right,white,skyblue);
+}
+#main{
+    display:inline-flex;
+    align-items: center;
+    width:370px;
+    margin-left: 5%;
+    margin-top: 7%;
+    color:#0b4c7f;
+    font-size: 2em;
+    font-weight: bold;
+    padding:5px;
+}
+#sub{
+display: flex;
+width:320px;
+margin-left: 5%;
+margin-top: -1%;
+margin-bottom: 0%;
+color:#0b4c7f;
+font-size: 2em;
+font-family: 'Times New Roman', Times, serif;
+}
+#apply-button{
+    width:20%;
+    height: 70px;
+    margin-left: 7%;
+    margin-top:2%;
+    border-radius: 40px;
+    background-color: #0b4c7f;
+    color:#fff;
+    font-size: 1em;
+    font-weight: 900;
+    border-style:none ;
+    
+}
+
+
+#hero{
+    margin-top:-20%;
+    margin-left: 70%;
+}
+#features{
+    display: inline-flex;
+    flex-direction: row;
+    width:80%;
+    height: 25vh;
+    margin-left: 10%;
+    border:5px solid white;
+}
+#list{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items:end;
+    list-style: none;
+    font-size: 1.5em;
+    font-weight: 300;
+    color:#212529;
+   width: 100%;
+    
+}
+#quote{
+    display: inline-flex;
+    flex-direction: row;
+    margin-left: 30%;
+    margin-top: 5%;
+    width:60%;
+    color: #212529;
+    font-size: 1.6em;
+}
+#qimage1{
+    width:34px;
+    height:27px;
+}
+#saying{
+    display: flex;
+}
+#qimage2{
+    display: flex;
+    width:35px;
+    height:35px;
+    margin-top: 12%;
+    
+}
+#carrier{
+    display:flex;
+    float: right;
+    margin-top: 8%;
+}
+#child{
+    width:376px;
+    height:313px;
+    margin-left:-35%;
+}
+#goal{
+    
+    margin-left:25px ;
+}
+#course{
+    font-size: 1.5em;
+    color:#343a40;;
+    width:80%;
+}
+#instant{
+    display: flex;
+    justify-content:first baseline;
+    align-items: end;
+    background-color: #0b4c7f;
+    color:azure;
+    font-size: 2em;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-weight: 900;
+    height:50px;
+}
+#a-button{
+    width:50%;
+    height:25%;
+    border-radius:40px;
+    border:2px solid #0b4c7f;
+    font-size: 1em;
+    color:#0b4c7f;
+}
